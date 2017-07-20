@@ -58,8 +58,8 @@ li a:hover:not(.active) {
 #outside-pic {
   border: 2px solid;
   border-radius: 350px;
-  width: 380px;
-  height: 480px;
+  width: 330px;
+  height: 430px;
 }
 
 #outside-help {
